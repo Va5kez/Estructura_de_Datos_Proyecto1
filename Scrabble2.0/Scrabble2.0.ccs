@@ -1,0 +1,22 @@
+<Solution>
+  <PropertyGroup Name="Scrabble2.0" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Image Name="a.png" />
+        <Image Name="b.png" />
+        <Image Name="Board.png" />
+        <Image Name="Board2.png" />
+        <TTF Name="docktrin.ttf" />
+        <TTF Name="font.ttf" />
+        <TTF Name="gomarice_goma_block.ttf" />
+        <Image Name="HelloWorld.png" />
+        <Image Name="image2.jpg" />
+        <Project Name="MainScene.csd" Type="Scene" />
+        <TmxFile Name="test.tmx" />
+        <TmxFile Name="untitled.tmx" />
+        <Image Name="white.jpg" />
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>
